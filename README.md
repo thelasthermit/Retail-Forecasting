@@ -1,5 +1,5 @@
 # Retail-Forecasting
-[Click here to go to the code] (https://github.com/thelasthermit/Retail-Forecasting)
+[Click here to go to the code](https://github.com/thelasthermit/Retail-Forecasting)
 A simple example of forecasting the Weekly Sales of a retail store and how it's impacted by the Holidays and Special events like Super Bowl
 
 ### Problem Statement:
